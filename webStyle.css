@@ -1,0 +1,65 @@
+﻿	div.zone2 {
+		background: #F0F0FF;
+	}
+	
+	div.home {
+		margin: 0 auto;
+		display: table;		
+	}
+	
+	div.home a{
+		display: block;
+		padding: 12px 25px;
+		background: #C2E0FF;
+		color: #000;
+		text-decoration: none;
+	}
+	
+	
+	div.page_zone {
+		margin: 0 auto;
+		display: table;		
+	}
+	
+	table.item {
+		height: 410px;     
+		width: 240px;          
+		float: left;
+		margin: 10px auto;
+		background: #E0E0D1;
+	}
+
+	table.blankSpace {
+		margin: 10px auto;
+		float: left;
+	}
+	
+	div.page {
+		margin: 0 auto;
+		display: table;
+	}
+	
+	button.lastPage {
+		background-image: url('pagedown.gif');
+		height: 32px;
+		width: 32px;      
+	}
+	
+	button.nextPage {
+		background-image: url('pageup.gif');
+		height: 32px;
+		width: 32px;      
+	}
+	
+	div.block {
+		text-align: right;
+	}
+
+	div.block2-2 {
+		float: right;
+	}
+	
+	button.itemButton:hover {
+		cursor: pointer;
+	}
+	
